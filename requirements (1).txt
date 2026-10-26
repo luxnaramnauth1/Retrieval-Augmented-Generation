@@ -1,0 +1,4 @@
+sentence-transformers>=2.7
+numpy>=1.24
+# Optional: only needed for the --answer flag in ask.py
+openai>=1.0
